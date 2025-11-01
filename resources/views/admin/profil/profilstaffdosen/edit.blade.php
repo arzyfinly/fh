@@ -74,8 +74,7 @@
                                                 <label class="labels">Departement</label>
                                                 <select class="form-control" name="title" @error('title') is-invalid @enderror placeholder="judul">
                                                     <option>-- Select Departement --</option>
-                                                    <option @if($dosen->title == "MANAJEMEN") selected @endif value="MANAJEMEN">MANAJEMEN</option>
-                                                    <option @if($dosen->title == "AKUNTANSI") selected @endif value="AKUNTANSI">AKUNTANSI</option>
+                                                    <option @if($dosen->title == "HUKUM") selected @endif value="Hukum">Hukum</option>
                                                 </select>
                                                 @error('title')
                                                     <small class="text-danger">{{ $message }}</small>

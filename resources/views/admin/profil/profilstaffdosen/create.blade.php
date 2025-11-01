@@ -45,8 +45,7 @@
                                                         <label class="labels">Departement</label>
                                                         <select class="form-control" name="title" @error('title') is-invalid @enderror placeholder="judul">
                                                             <option>-- Select Departement --</option>
-                                                            <option value="MANAJEMEN">MANAJEMEN</option>
-                                                            <option value="AKUNTANSI">AKUNTANSI</option>
+                                                            <option value="HUKUM">Hukum</option>
                                                         </select>
                                                         @error('title')
                                                             <small class="text-danger">{{ $message }}</small>

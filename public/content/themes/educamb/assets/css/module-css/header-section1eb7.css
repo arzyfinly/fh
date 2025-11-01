@@ -1,5 +1,5 @@
 /*==============================================
-    Main Header Css        
+    Main Header Css
 ===============================================*/
 .main-header {
     position: absolute;
@@ -21,7 +21,7 @@
     left: 0px;
     width: 100%;
     padding: 0px 0px;
-    background: rgba(192, 129, 74, 0.95);
+    background: rgba(221, 0, 0, 0.95);
     opacity: 0;
     visibility: hidden;
     transition: all 500ms ease;
@@ -1271,7 +1271,7 @@
 
 
 /*==============================================
-    Main Header Style2 Css        
+    Main Header Style2 Css
 ===============================================*/
 .header-style-two {
     position: relative;
@@ -1677,7 +1677,7 @@
 
 
 /*==============================================
-    Main Header Style3 Css        
+    Main Header Style3 Css
 ===============================================*/
 .header-style-three {}
 
@@ -1929,7 +1929,7 @@
 
 
 /*==============================================
-    Main Header Style4 Css        
+    Main Header Style4 Css
 ===============================================*/
 .header-style-four {
     position: relative;
@@ -2175,7 +2175,7 @@
 
 
 /*==============================================
-    Main Header Style6 Css        
+    Main Header Style6 Css
 ===============================================*/
 .header-style-six {
     position: absolute;
@@ -2365,7 +2365,7 @@
 
 
 /*==============================================
-    Main Header Style7 Css        
+    Main Header Style7 Css
 ===============================================*/
 .header-style-seven {
     position: relative;
@@ -2691,7 +2691,7 @@
 
 
 /*==============================================
-    Main Header Style8 Css        
+    Main Header Style8 Css
 ===============================================*/
 .header-style-eight {
     position: relative;
@@ -2901,7 +2901,7 @@
 
 
 /*==============================================
-    Main Header Style9 Css        
+    Main Header Style9 Css
 ===============================================*/
 .header-style-nine {}
 
@@ -2948,8 +2948,8 @@
 .header-style9 {
     position: relative;
     display: block;
-    background-color: rgba(192, 129, 74, 0.85);
-    
+    background-color: rgba(221, 0, 0, 0.85);
+
 }
 
 .header-style9 .outer-box {
@@ -3028,7 +3028,7 @@
 .header-bottom-style9 {
     position: relative;
     display: block;
-    background-color: rgba(192, 129, 74, 0.85);
+    background-color: rgba(221, 0, 0, 0.85);
     border-top: 1px solid rgba(255, 255, 255, 0.15);
     padding: 20px 0;
 }
@@ -3160,7 +3160,7 @@
 
 
 /*==============================================
-    Main Header Style10 Css        
+    Main Header Style10 Css
 ===============================================*/
 .header-style-ten {}
 
